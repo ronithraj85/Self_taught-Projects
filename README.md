@@ -1,2 +1,2 @@
 This repository consists of:
-1. Games in python using pygame(Space Invaders)
+1. Game in python using pygame(Space Invaders)
