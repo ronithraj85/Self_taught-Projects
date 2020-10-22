@@ -3,3 +3,4 @@ This repository consists of:
 Reference - https://www.youtube.com/playlist?list=PLhTjy8cBISEo3SzET7Fc3-b4miKWp41yX
 2. Simple Linear Regression along with a basic example.
 3. Multiple Linear Regression with Boston house prices dataset.
+4. Decision Tree Classifier.
