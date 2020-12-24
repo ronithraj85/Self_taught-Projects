@@ -1,0 +1,33 @@
+body {
+    background-color: grey;
+    text-align: center;
+    background-image : url(../images/bg.JPEG);
+    background-repeat : no-repeat;
+}
+
+.header{
+    padding: 10px 50px;
+    background-color:black;
+    color: #f1f9f9;
+    font-size: 22px;
+    font-family: cursive;
+}
+.footer {
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: lightslategray;
+   color: white;
+   text-align: right;
+   padding: 1px 5px;
+}
+
+.card-color{
+    background-color : lightblue;
+}
+
+.predictions{
+    color : greenyellow;
+    text-align: left;
+
+}
